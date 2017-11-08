@@ -1,3 +1,4 @@
+//калькулятор для сайта http://print.abcphoto.com.ua/fotoknigi
 $(document).ready(function() {
 	var selectSize="-",// размер
 			selectPrice=0,//цена за разворот
